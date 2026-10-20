@@ -33,6 +33,7 @@
 | 📄 [**`PORTFOLIO.md`**](./PORTFOLIO.md) | **전체 5개 프로젝트 상세 기술서**<br>• [P01] DCIM 3D 상면 고도화 사업 (차트 분석 & DIMS 자동화)<br>• [P02] DCIM 전산실 작업 관리 및 다채널 스케줄러 개발<br>• [P03] DCIM 인프라 장비 물리 계통 시각화 개발 및 회고<br>• [P04] DCIM GS 인증 1등급 획득 및 SW 품질 안정화<br>• [P05] 국토종주 자전거 스탬프 PWA 서비스 개발 (Vue 3, Pinia, PWA) |
 | 📝 [**`SELF_INTRODUCTION.md`**](./SELF_INTRODUCTION.md) | **자기소개서 모음집 (글자수별 맞춤형)**<br>• 500자 버전 (공백 포함 510자 / 플랫폼 프로필용)<br>• 1,000자 표준 버전 (공백 포함 998자 / 채용 포털 입력 폼용)<br>• 1,000자 심층 버전 (공백 제외 1,020자 / 자유 서술형)<br>• **[보너스] 실전 면접장 1분 자기소개 스피치 대본** |
 | 🎯 [**`INTERVIEW_GUIDE.md`**](./INTERVIEW_GUIDE.md) | **기술 면접 대비 Q&A 치트시트**<br>• 시니어/리드 관점의 기술적 의사결정(Why) 및 트레이드오프 심층 질문 5선 답변 가이드 |
+| ❓ [**`INTERVIEW_QUESTIONS_ALL.md`**](./INTERVIEW_QUESTIONS_ALL.md) | **실전 기술 면접 예상 질문 & 모범 답변 총람 (Total 18선)**<br>• ThreadLocal, 가상 스크롤, Calendar 하위호환, D3 실패 회고, AI 검증 등 면접관의 송곳 질문 총망라 |
 | 🔍 [**`PORTFOLIO_REVIEW.md`**](./PORTFOLIO_REVIEW.md) | **포트폴리오 정밀 진단 및 개선 보고서**<br>• 채용 면접관 시점에서의 결함 분석 및 Before & After 리라이팅 가이드 |
 | 🤝 [**`HANDOVER.md`**](./HANDOVER.md) | **세션 종합 인수인계서**<br>• 개발자 프로필 및 컨설팅 히스토리 정리 |
 
