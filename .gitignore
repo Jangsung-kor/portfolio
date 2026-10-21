@@ -1,0 +1,5 @@
+# Session & Local Configuration
+session_ids.txt
+*session_ids*.txt
+.env
+.env.local
